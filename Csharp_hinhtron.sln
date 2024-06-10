@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Csharp_hinhtron", "Csharp_hinhtron.csproj", "{71C6165B-34D2-4DDB-974F-23F30862DE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C6165B-34D2-4DDB-974F-23F30862DE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C6165B-34D2-4DDB-974F-23F30862DE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C6165B-34D2-4DDB-974F-23F30862DE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C6165B-34D2-4DDB-974F-23F30862DE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78ED91EF-F106-4C64-ABD8-DAED82E83248}
+	EndGlobalSection
+EndGlobal
